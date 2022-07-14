@@ -1,5 +1,5 @@
 # Projet_9-Api-Rest-CRUD-Javascript-NodeJs-Vanilla
-Creer un serveur node qui affiche des produits au format json + un CRUD dans un fichier HTML avec Javascript
+Creer un serveur node qui affiche des produits au format json + puis affiche les produit dans un fichier HTML avec Javascript
 
 1 - npm init + server.js
 2 - creer fichier server.js + code node js : https://nodejs.org/en/docs/guides/getting-started-guide/
