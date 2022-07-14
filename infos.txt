@@ -1,0 +1,6 @@
+1 - npm init + server.js
+2 - creer fichier server.js + code node js : https://nodejs.org/en/docs/guides/getting-started-guide/
+3 - demarrer le serveur: node server.js
+4 - creer un fichier produits.json
+5 - stocker ce fichier dans une variable
+6 - afficher le json su le port 3000
